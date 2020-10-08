@@ -1,4 +1,4 @@
-COUNTYFP,NEVER,RARELY,SOMETIMES,FREQUENTLY,ALWAYS,COUNTY NAME,STATE,Health District,Lab Report Date,Number of PCR Testing Encounters,Number of Positive PCR Testing Encounters,Total Number of Testing Encounters,Total Number of Positive Testing Encounters
+COUNTYFP,NEVER,RARELY,SOMETIMES,FREQUENTLY,ALWAYS,COUNTY NAME,STATE,Health_District,Lab_Report_Date,Number_of_PCR_Testing_Encounters,Number_of_Positive_PCR_Testing_Encounters,Total_Number_of_Testing_Encounters,Total_Number_of_Positive_Testing_Encounters
 51700,0.01,0.038,0.035,0.145,0.772,Norfolk,VA,Norfolk,3/10/2020,1,0,1,0
 51700,0.01,0.038,0.035,0.145,0.772,Norfolk,VA,Norfolk,3/11/2020,5,0,5,0
 51700,0.01,0.038,0.035,0.145,0.772,Norfolk,VA,Norfolk,3/12/2020,8,0,8,0
